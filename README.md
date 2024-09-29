@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dexusa 1337
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Çağatay Bulut
 ===================================================================================================================================
 
 I am a software developer
 -------------------------
 
 *   🌍  I'm based in Turkey
-*   🖥️  See my portfolio at [http://www.dexusa.shop/](http://www.dexusa.shop)
-*   ✉️  You can contact me at [hello@dexusa.shop](mailto:hello@dexusa.shop)
-*   🚀  I'm currently working on [Stubbed](http://stubbed.dev/)
+*   🖥️  See my portfolio at [http://www.cago.shop/](http://www.cago.shop)
+*   ✉️  You can contact me at [hello@dexusa.shop](mailto:hello@cago.shop)
+*   🚀  I'm currently working on [Clouddos](http://clouddos.net/) (IT IS DOWN RN)
 *   🧠  I'm learning AI algorithms
 *   🤝  I'm open to collaborating on any projects
 *   ⚡  I am a passionate developer learning new things
