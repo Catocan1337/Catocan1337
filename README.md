@@ -6,7 +6,7 @@ I am a software developer
 
 *   🌍  I'm based in Turkey
 *   🖥️  See my portfolio at [http://www.cago.shop/](http://www.cago.shop)
-*   ✉️  You can contact me at [hello@dexusa.shop](mailto:hello@cago.shop)
+*   ✉️  You can contact me at [hello@cago.shop](mailto:hello@cago.shop)
 *   🚀  I'm currently working on [Clouddos](http://clouddos.net/) (IT IS DOWN RN)
 *   🧠  I'm learning AI algorithms
 *   🤝  I'm open to collaborating on any projects
